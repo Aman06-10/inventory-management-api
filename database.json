@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "price": 70000,
+    "quantity": 10,
+    "category": "Electronics"
+  },
+  {
+    "id": 2,
+    "name": "Mechanical Keyboard",
+    "price": 3500,
+    "quantity": 12,
+    "category": "Accessories"
+  },
+  {
+    "id": 3,
+    "name": "Mouse",
+    "price": 700,
+    "quantity": 30,
+    "category": "Accessories"
+  },
+  {
+    "id": 4,
+    "name": "Monitor",
+    "price": 15000,
+    "quantity": 8,
+    "category": "Electronics"
+  }
+]
