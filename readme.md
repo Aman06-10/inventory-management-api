@@ -43,7 +43,7 @@ inventory-management-api/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/inventory-management-api.git
+git clone https://github.com/Aman06-10/inventory-management-api.git
 ```
 
 Move into the project directory:
